@@ -33,7 +33,6 @@ jsonpointer==2.3
 jsonschema==4.17.3
 julius==0.2.7
 keras==3.1.1
-mangum==0.17.0
 Markdown==3.4.3
 MarkupSafe==2.1.2
 matplotlib==3.7.1
@@ -47,8 +46,6 @@ pandocfilters==1.5.0
 parso==0.8.3
 passlib==1.7.4
 pdfkit==1.0.0
-pexpect==4.8.0
-pickleshare==0.7.5
 platformdirs==3.2.0
 psutil==5.9.4
 psycopg2-binary==2.9.9
@@ -100,9 +97,6 @@ tzdata==2023.3
 uri-template==1.2.0
 urllib3==1.26.5
 uvicorn==0.15.0
-wadllib==1.3.6
-wcwidth==0.2.6
-webcolors==1.13
 webencodings==0.5.1
 webrtcvad==2.0.10
 websocket-client==1.5.1
