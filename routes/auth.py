@@ -3,7 +3,7 @@ import jwt
 import pandas as pd
 from fastapi import HTTPException
 
-JWT_SECRET = 'ekQuJRWOLc2g93nV18mSTF94apf4QaIjURNJEpL4hpg'
+JWT_SECRET = 'ekQu########################pg'
 JWT_ALGORITHM = 'HS256'
 
 def token_response(token: str):
